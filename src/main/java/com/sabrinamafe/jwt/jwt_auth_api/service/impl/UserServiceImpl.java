@@ -1,4 +1,4 @@
-package com.sabrinamafe.jwt.service;
+package com.sabrinamafe.jwt.jwt_auth_api.service.impl;
 
 import com.sabrinamafe.jwt.jwt_auth_api.model.User;
 import com.sabrinamafe.jwt.jwt_auth_api.repository.UserRepository;
